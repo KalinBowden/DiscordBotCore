@@ -4,8 +4,8 @@ using System.Text;
 
 namespace DiscordBotCore
 {
-    class Item
+    class Tool : Item
     {
-
+        public int Durability { get; set; } = 100;
     }
 }
