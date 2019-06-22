@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Discord.WebSocket;
 
-namespace DiscordBotCore.Discord.Entities
+namespace DiscordBotCore.Discord
 {
     class DiscordBotConfig
     {
